@@ -1,51 +1,37 @@
 {
-    "name"          : "web3bazaar",
-    "description"   : "web3 trades",
-    "chainId"       : "0x89",
-    "discord"       : "https://discord.gg/VdcJ9XrKTg",
-    "twitter"       : "https://twitter.com/Web3Bazaar",
-    "github"        : "https://github.com/Web3bazaar/",
-    "website"       : "https://web3bazaar.org/",
-    "banner"        : "https://pbs.twimg.com/profile_banners/1483464791737970689/1642590074/1500x500"
+    "name"          : "Decentraland",
+    "description"   : "Decentraland defines itself as a virtual reality platform powered by the Ethereum blockchain that allows users to create, experience, and monetize content and applications.",
+    "chainId"       : "0x86",
+    "discord"       : "https://decentraland.org/discord",
+    "twitter"       : "https://twitter.com/decentraland",
+    "github"        : "https://github.com/decentraland",
+    "website"       : "https://decentraland.org/",
+    "banner"        : "https://polygonscan.com/token/images/decentraland_32.png"
     
     "assets"        : [
         {
-            "assetName" : "BAZCOIN",
-            "tokenImage" : "https://cdn-icons-png.flaticon.com/512/4843/4843086.png",
-            "contractType" : "ERC20",
-            "decimals" : 18,
-            "contractAddress" : "0x89A84dc58ABA7909818C471B2EbFBc94e6C96c41"
+        "assetName"        : "Decentraland token (MANA)",
+        "tokenImage"       : "https://polygonscan.com/token/images/decentraland_32.png"
+        "contractType"     : "ERC20",
+        "decimals"         : 18,
+        "contractAddress"  : "0xA1c57f48F0Deb89f569dFbE6E2B7f46D33606fD4"
         },
         {
-            "assetName"       : "BAZAAR ERC1155",
-            "backgroundBanner"  : "https://academy.bit2me.com/wp-content/uploads/2021/02/ERC-1155-bit2meacademy.png",
-            "contractType"      : "ERC1155",
-            "decimals"          : 1,
-            "contractAddress"   : "0xC70d6b33882dE18BDBD0a372B142aC96ceb1366f",
-            "apiMetadata"       : "https://webazaar-meta-api.herokuapp.com/1155/detail/{id}",
-            "defaultImage"      : "https://lh3.googleusercontent.com/FvJPOKp1J-bSN9to_E34bxZ8NcqB_ZlRbO8NP0L-2g8afiEYF_EwCx5QUaX0Kt_f2udc3SWVKAf_mS0gEdPdl7lnfBzh0rw54jr9Yw=w600"
-        },
-        {
-            "assetName"       : "BAZAAR ERC721",
-            "backgroundBanner"  : "https://academy.bit2me.com/wp-content/uploads/2019/07/74_ERC721.png",
-            "contractType"      : "ERC721",
-            "decimals"          : 1,
-            "contractAddress"   : "0x8ba96897cA8A95B39C639BEa1e5E9ce60d22BD2B",
-            "apiMetadata"       : "https://webazaar-meta-api.herokuapp.com/721/detail/{id}",
-            "defaultImage"      : "https://lh3.googleusercontent.com/FvJPOKp1J-bSN9to_E34bxZ8NcqB_ZlRbO8NP0L-2g8afiEYF_EwCx5QUaX0Kt_f2udc3SWVKAf_mS0gEdPdl7lnfBzh0rw54jr9Yw=w600"
-
+        "assetName"        : "Decentraland collection",
+        "backgroundBanner" : "https://i.seadn.io/gcs/static/banners/dclwearables-banner.png?auto=format&dpr=1.5&h=300",
+        "contractType"     : "",
+        "decimals"         : ,
+        "contractAddress"  : ""
+        "apiMetadata"      : "",
+        "defaultImage"     : "https://lh3.googleusercontent.com/5KIxEGmnAiL5psnMCSLPlfSxDxfRSk4sTQRSyhPdgnu70nGb2YsuVxTmO2iKEkOZOfq476Bl1hAu6aJIKjs1myY=s168"
         },
     ],
             "opensea_collections" : [
-        {
-            "name" : "Web3Bazaar 721 Collection",
-            "link" : "https://testnets.opensea.io/collection/web3-bazaar-erc-721-test-collection"
+        {       
+                "name" : "Decentraland",
+                "link" : "https://opensea.io/collection/decentraland"
         },
-        {
-            "name" : "Web3Bazaar 1155 Collection",
-            "link" : "https://testnets.opensea.io/collection/web3-bazaar-erc-1155-test-collection-v3"
-        },
-    ],
+            ],
 
 
 }
