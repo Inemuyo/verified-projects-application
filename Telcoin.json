@@ -1,0 +1,37 @@
+{
+    "name"          : "Telcoin",
+    "description"   : "Telcoin is a new cryptocurrency based on the Ethereum blockchain that will be distributed by your national telecom operator and made available to everyone anywhere by tapping into synergies between the reach of mobile telecoms and the fast, borderless nature of blockchain technology",
+    "chainId"       : "0x89",
+    "discord"       : "",
+    "twitter"       : "https://twitter.com/telcoin_team",
+    "github"        : "https://github.com/telcoin",
+    "website"       : "https://www.telco.in/",
+    "banner"        : "https://polygonscan.com/token/images/telcoin_28.png"
+    
+    "assets"        : [
+        {
+        "assetName"        : "Telcoin",
+        "tokenImage"       : "https://polygonscan.com/token/images/telcoin_28.png"
+        "contractType"     : "ERC20",
+        "decimals"         : 2,
+        "contractAddress"  : "0xdF7837DE1F2Fa4631D716CF2502f8b230F1dcc32"
+        }, 
+        {
+        "assetName"        : "",
+        "backgroundBanner" : "",
+        "contractType"     : "",
+        "decimals"         : ,
+        "contractAddress"  : ""
+        "apiMetadata"      : "",
+        "defaultImage"     : ""
+        },
+    ],
+            "opensea_collections" : [
+        {       
+                "name" : "",
+                "link" : ""
+        },
+            ],
+
+
+}
